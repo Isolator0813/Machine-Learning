@@ -1,0 +1,2 @@
+Hello! I'm Iliad Oleriana, a Chemical Engineer with a strong passion for data analysis and Machine Learning. I have a background in Chemical Engineering, with hands-on experience in problem-solving, process improvement, and data-driven decision-making. I’ve also worked extensively with data to analyze trends, predict outcomes, and improve operations. My journey into Machine Learning stems from my curiosity to understand how data can unlock insights and create value across various industries.
+
